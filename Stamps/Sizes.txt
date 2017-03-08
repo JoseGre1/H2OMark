@@ -1,0 +1,17 @@
+Image_horizontal:
+ - Size: { W:4896, H:3672 }
+
+Image_vertical:
+ - Size: { W:3672, H:4896 }
+
+Banner_horizontal:
+ - Size: { W:4896, H:128 }
+
+Banner_vertical:
+ - Size: { W:3672, H:172 }
+
+Watermark_horizontal:
+ - Size: { W:4896, H:3672,  }
+
+Watermark_vertical:
+ - Size: { W:3672, , H:4896 }
